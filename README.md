@@ -1,5 +1,9 @@
 # 👋 Hi, I'm a Full Stack .NET Developer
-<img src="(https://media.licdn.com/dms/image/v2/D5616AQGQXOfRHJY9DA/profile-displaybackgroundimage-shrink_350_1400/B56Zt_P9hBJcAY-/0/1767366450211?e=1769040000&v=beta&t=XxQmi2mT6MubBxRgS3UIDjdQs1gvPbhzKXTpH5_yjhA)">
+ <img 
+    src="https://media.licdn.com/dms/image/v2/D5616AQGQXOfRHJY9DA/profile-displaybackgroundimage-shrink_350_1400/B56Zt_P9hBJcAY-/0/1767366450211?e=1769040000&v=beta&t=XxQmi2mT6MubBxRgS3UIDjdQs1gvPbhzKXTpH5_yjhA"
+    alt="Profile Banner"
+    width="100%"
+  />
 
 💻 **Full Stack .NET Developer** trained in designing and developing **enterprise-grade software applications**.  
 I enjoy building scalable, high-performance solutions across **web, desktop, mobile, and cross-platform environments** using modern Microsoft technologies.
