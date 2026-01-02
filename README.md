@@ -1,5 +1,4 @@
 # 👋 Hi, I'm a Full Stack .NET Developer
-<img src="width="1584" height="396" alt="LinkedinBanner" src="https://github.com/user-attachments/assets/020cdd65-3023-44c2-b0d5-92766814565b" />
 💻 **Full Stack .NET Developer** trained in designing and developing **enterprise-grade software applications**.  
 I enjoy building scalable, high-performance solutions across **web, desktop, mobile, and cross-platform environments** using modern Microsoft technologies.
 
