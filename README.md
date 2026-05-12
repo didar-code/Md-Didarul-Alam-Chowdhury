@@ -100,7 +100,8 @@ Database design with DDL, DML, joins, procedures, and query optimization.
 
 ## 📫 Connect With Me
 
-💼 LinkedIn: www.linkedin.com/in/md-didarul-alam-chowdhury-42a2a33a4  
+💼 LinkedIn: www.linkedin.com/in/md-didarul-alam-chowdhury
+📜 Portfolio:https://didar-code.github.io/didarulalam.github.io/ 
 📧 Email: chowdhuryd243@gmail.com  
 
 ---
